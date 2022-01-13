@@ -1,7 +1,7 @@
 # Skeletonization
 
 The code skeletonizes a character image.
-The algorithm of the skeletonization appears in Fujita 2013.
+The algorithm of the skeletonization has appeared in Fujita 2013.
 You can look at the sample image in [the page](https://github.com/KazuhisaFujita/skeletonization/blob/main/test.ipynb).
 
 Now, there are several differences between the code and the paper.
